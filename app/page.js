@@ -1,4 +1,6 @@
 import HomePage from "@/components/homePage.jsx";
+import Spinner from "@/components/UI/spinner";
+import { Suspense } from "react";
 
 export default async function Home() {
 
@@ -6,7 +8,9 @@ export default async function Home() {
   // console.log(countries);
   return (
     <>
+    <Suspense fallback={<Spinner />} >
       <HomePage />
+    </Suspense>
     </>
   );
 }
