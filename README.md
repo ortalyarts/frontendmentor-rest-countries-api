@@ -18,14 +18,14 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 ### The challenge
 
-Users should be able to:
+Users are able to:
 
 - See all countries from the API on the homepage
 - Search for a country using an `input` field
 - Filter countries by region
 - Click on a country to see more detailed information on a separate page
 - Click through to the border countries on the detail page
-- Toggle the color scheme between light and dark mode *(optional)*
+- Toggle the color scheme between light and dark mode 
 
 ### Screenshot
 
@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Github](https://github.com/ortalyarts/frontendmentor-rest-countries-api)
-- Live Site URL: [Preview App](https://frontendmentor-rest-countries-h3gxfjj3m-tanjas-projects.vercel.app/)
+- Live Site URL: [Preview App](https://frontendmentor-rest-countries-api-nu.vercel.app/)
 
 ## My process
 
